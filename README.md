@@ -5,13 +5,13 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+  <a href="https://www.linkedin.com/in/parashar-wagle-a0a439319/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:waglep278@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-streamlit-app-url.streamlit.app">
+  <a href="https://eye-vision-pipeline-8upzaawhrkdrwrly4ysysv.streamlit.app/">
     <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
 </div>
@@ -36,7 +36,7 @@
 
 Real-time gaze estimation (MediaPipe + OpenCV) and a retinal fundus image classifier
 (PyTorch, transfer learning on ResNet18) — deployed live with Streamlit.
-**[Try the live demo →](https://your-streamlit-app-url.streamlit.app)**
+**[Try the live demo →](https://eye-vision-pipeline-8upzaawhrkdrwrly4ysysv.streamlit.app/)**
 
 <br>
 
